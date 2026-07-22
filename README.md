@@ -62,7 +62,7 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn jupyter
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/DEEP_LEARNING.git
+   git clone https://github.com/Shaipratt51/DEEP-LEARNING
    cd DEEP_LEARNING
    ```
 2. Launch Jupyter Notebook or JupyterLab:
